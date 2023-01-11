@@ -1,13 +1,3 @@
-*{margin: 0;}
-.img-thumbnail{
-    height: 250px;
-    object-fit: cover;
-}
-#team .card:hover{
-  border-color: rgb(13, 110, 253);
-  box-shadow: 0px 0px 10px 2px rgb(207, 220, 240);
-  transform: scale(0.98);    
-}
 header{
     background-color: rgb(66, 117, 15);
 }
@@ -21,18 +11,4 @@ header{
 .navbar-nav > li > a:hover{
     background-color:#f1cca1;
     
-}
-footer{
-    background-color: rgb(83, 128, 38); ;
-}
-footer li{
-    list-style: square;
-    color: white;
-}
-footer a{
-    color: white;
-    text-decoration: none;
-}
-#team h3{
-   color: rgb(70, 70, 105);   
 }
