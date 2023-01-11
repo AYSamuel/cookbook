@@ -25,3 +25,14 @@ header{
 #team h3{
    color: rgb(70, 70, 105);   
 }
+footer{
+    background-color: rgb(83, 128, 38); ;
+}
+footer li{
+    list-style: square;
+    color: white;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
