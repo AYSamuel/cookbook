@@ -87,3 +87,12 @@ h4{
     font-family: 'Courgette', cursive;
     color:green;
 }
+/* Prawn Recipe page style*/
+#prawntext p{
+    color: darkslateblue;
+    font-size:larger;
+    text-align:justify;
+}
+
+#prawntable tr:nth-child(even) {color: red;}
+#prawntable tr:nth-child(odd) {color: green}
