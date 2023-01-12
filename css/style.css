@@ -32,7 +32,14 @@ footer li{
     list-style: square;
     color: white;
 }
+#about li{
+    list-style: none;
+}
 footer a{
     color: white;
     text-decoration: none;
+}
+.dropdown-menu{
+    background-color: #d4e670;
+   
 }
