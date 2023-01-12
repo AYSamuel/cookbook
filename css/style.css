@@ -3,7 +3,7 @@
     background-color: yellowgreen;
     position: relative;
     background-image: url(../images/cookbook.jpg);
-    max-height: 100vh;
+    max-height: 80vh;
     background-size: cover;
     background-position: center;
 }
