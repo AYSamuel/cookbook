@@ -74,7 +74,15 @@ header{
     padding: .1em;
 }
 
+.vary h2 {
+    text-decoration: underline;
+    text-align: center;
+}
 
+.h2p h2 {
+    text-decoration: underline;
+    text-align: center;
+}
 
 footer{
     background-color: rgb(83, 128, 38); ;
