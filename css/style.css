@@ -74,3 +74,16 @@ footer a{
     background-color: #d4e670;
 }
 
+
+.carousel-inner{
+   
+    height: 400;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(124, 12, 12);
+}
+h4{
+    font-family: 'Courgette', cursive;
+    color:green;
+}
