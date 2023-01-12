@@ -1,3 +1,35 @@
+
+.hero {
+    background-color: yellowgreen;
+    position: relative;
+    background-image: url(../images/cookbook.jpg);
+    max-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero h1 {
+    font-size: 90px;
+    font-weight: 500;
+    padding-top: 50%;
+}
+.hero p {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20%;
+}
+.S {
+    color: rgb(255,193,7);
+}
+.T {
+    color: rgb(25,135,84);
+}
+.A {
+    color: rgb(13,110,253);
+}
+
 *{margin: 0;}
 .img-thumbnail{
     height: 250px;
@@ -41,5 +73,5 @@ footer a{
 }
 .dropdown-menu{
     background-color: #d4e670;
-   
 }
+
