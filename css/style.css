@@ -74,3 +74,25 @@ footer a{
     background-color: #d4e670;
 }
 
+
+.carousel-inner{
+   
+    height: 400;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(124, 12, 12);
+}
+h4{
+    font-family: 'Courgette', cursive;
+    color:green;
+}
+/* Prawn Recipe page style*/
+#prawntext p{
+    color: darkslateblue;
+    font-size:larger;
+    text-align:justify;
+}
+
+#prawntable tr:nth-child(even) {color: red;}
+#prawntable tr:nth-child(odd) {color: green}
